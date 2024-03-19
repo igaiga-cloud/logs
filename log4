@@ -1,6 +1,6 @@
 {
     "messagesDelivered":null,
-    "MessagesBlocked":null,
+    "clicksBlocked":null,
     "clicksPermitted":[
       {
          "campaignId":"46e01b8a-c899-404d-bcd9-189bb393d1a7",
